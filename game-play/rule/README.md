@@ -1,5 +1,5 @@
 ---
-description: 아래 내용이 이 게임의 기본적인 규칙/흐름에 해당하고 상세 내용을 확장
+description: 하위 계층의 상세 설명을 바탕으로 재작성하기
 noRobotsIndex: true
 layout:
   width: wide
@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 기본 레벨/시스템 디자인
+# 레벨/시스템 디자인
 
 ## 게임 시작
 
