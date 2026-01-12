@@ -1,15 +1,6 @@
 # Table of contents
 
 * [개요](README.md)
-* [게임 플레이 흐름](undefined-1.md)
-* [레벨/시스템 디자인](rule/README.md)
-  * [게임 매칭](rule/rule.md)
-  * [자원 획득](rule/rule-1.md)
-  * [점수 획득](rule/rule-2.md)
-  * [조합 특성](rule/undefined.md)
-  * [칸 이동](rule/undefined-1.md)
-  * [개척지 생성](rule/undefined-2.md)
-  * [개척지 획득](rule/undefined-3.md)
-  * [지도](rule/undefined-4.md)
-* [에셋 디자인](undefined-2.md)
+* [게임 플레이](undefined-1.md)
+* [레벨 / 시스템 디자인](undefined-2.md)
 * [데이터 테이블](undefined-3.md)
